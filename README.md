@@ -39,6 +39,6 @@ node server.js
 
 项目加载时，页面会展示一个随机生成的数组，并允许用户通过点击按钮触发排序算法。每个排序操作都会通过动画动态展示数组元素的排序过程。用户可通过刷新页面重置排序数组。
 
-![image-20250224185056991](C:\Users\60214\AppData\Roaming\Typora\typora-user-images\image-20250224185056991.png)
+![image-20250224185056991](images/2.png)
 
-![image-20250224185114994](C:\Users\60214\AppData\Roaming\Typora\typora-user-images\image-20250224185114994.png)
+![image-20250224185114994](images/3.png)
