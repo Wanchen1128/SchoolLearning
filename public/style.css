@@ -1,0 +1,48 @@
+/* public/style.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  width: 80%;
+  max-width: 800px;
+}
+
+#array-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.bar {
+  height: 100px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #3498db;
+  transition: height 0.3s ease;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+.controls {
+  margin-top: 20px;
+}
